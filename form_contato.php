@@ -3,14 +3,14 @@
 $to       = 'suportecriativitta1@gmail.com';
 $subject  = $_POST['form-subject'];
 $from  = $_POST['form-email'];
-$message  = '
-==============================='.PHP_EOL.'
-WWW.DOMINIO.COM.BR
-===============================
-De: '.$from.'
-Para: '.$to.'
-Assunto: '.$subject.'
-Mensagem: '.$_POST['form-message'];
+$message  = nl2br("
+===============================\r\n
+WWW.DOMINIO.COM.BR \r\n
+===============================\r\n
+De: ".$from."\r\n
+Para: ".$to."\r\n
+Assunto: ".$subject."\r\n
+Mensagem: ".$_POST['form-message']);
 
 
 $headers  = 'From: '."$from". "\r\n" .
