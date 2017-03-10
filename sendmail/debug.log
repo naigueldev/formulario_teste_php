@@ -1,0 +1,104 @@
+17/03/09 15:58:53 ** --- MESSAGE BEGIN ---
+17/03/09 15:58:53 ** To: suportecriativitta1@gmail.com
+17/03/09 15:58:53 ** Subject: Testing sendmail.exe
+17/03/09 15:58:53 ** X-PHP-Originating-Script: 0:index.php
+17/03/09 15:58:53 ** From: suportecriativitta1@gmail.com
+17/03/09 15:58:53 ** Reply-To: suportecriativitta1@gmail.com
+17/03/09 15:58:53 ** MIME-Version: 1.0
+17/03/09 15:58:53 ** Content-type: text/html; charset=iso-8859-1
+17/03/09 15:58:53 ** X-Mailer: PHP/5.6.30
+17/03/09 15:58:53 ** 
+17/03/09 15:58:53 ** Hi, you just received an email using sendmail!
+17/03/09 15:58:53 ** --- MESSAGE END ---
+17/03/09 15:58:54 ** Connecting to smtp.gmail.com:587
+17/03/09 15:58:54 ** Connected.
+17/03/09 15:58:54 << 220 smtp.gmail.com ESMTP q67sm4798810qkl.48 - gsmtp<EOL>
+17/03/09 15:58:54 >> EHLO localhost<EOL>
+17/03/09 15:58:55 << 250-smtp.gmail.com at your service, [200.175.79.204]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/03/09 15:58:55 ** Authenticating as suportecriativitta1@gmail.com
+17/03/09 15:58:55 >> STARTTLS<EOL>
+17/03/09 15:58:55 << 220 2.0.0 Ready to start TLS<EOL>
+17/03/09 15:58:55 >> EHLO localhost<EOL>
+17/03/09 15:58:55 << 250-smtp.gmail.com at your service, [200.175.79.204]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/03/09 15:58:55 >> AUTH LOGIN<EOL>
+17/03/09 15:58:55 << 334 VXNlcm5hbWU6<EOL>
+17/03/09 15:58:55 >> c3Vwb3J0ZWNyaWF0aXZpdHRhMUBnbWFpbC5jb20=<EOL>
+17/03/09 15:58:56 << 334 UGFzc3dvcmQ6<EOL>
+17/03/09 15:58:56 >> Q3JpYXRpdml0dDQ=<EOL>
+17/03/09 15:58:56 << 235 2.7.0 Accepted<EOL>
+17/03/09 15:58:56 >> MAIL FROM: <suportecriativitta1@gmail.com><EOL>
+17/03/09 15:58:56 << 250 2.1.0 OK q67sm4798810qkl.48 - gsmtp<EOL>
+17/03/09 15:58:56 >> RCPT TO: <suportecriativitta1@gmail.com><EOL>
+17/03/09 15:58:56 << 250 2.1.5 OK q67sm4798810qkl.48 - gsmtp<EOL>
+17/03/09 15:58:56 >> DATA<EOL>
+17/03/09 15:58:57 << 354  Go ahead q67sm4798810qkl.48 - gsmtp<EOL>
+17/03/09 15:58:57 >> Date: Thu, 9 Mar 2017 15:58:57 -0300<EOL>
+17/03/09 15:58:57 >> To: suportecriativitta1@gmail.com<EOL>
+17/03/09 15:58:57 >> Subject: Testing sendmail.exe<EOL>
+17/03/09 15:58:57 >> X-PHP-Originating-Script: 0:index.php<EOL>
+17/03/09 15:58:57 >> From: suportecriativitta1@gmail.com<EOL>
+17/03/09 15:58:57 >> Reply-To: suportecriativitta1@gmail.com<EOL>
+17/03/09 15:58:57 >> MIME-Version: 1.0<EOL>
+17/03/09 15:58:57 >> Content-type: text/html; charset=iso-8859-1<EOL>
+17/03/09 15:58:57 >> X-Mailer: PHP/5.6.30<EOL>
+17/03/09 15:58:57 >> <EOL>
+17/03/09 15:58:57 >> Hi, you just received an email using sendmail!<EOL>
+17/03/09 15:58:57 >> .<EOL>
+17/03/09 15:58:57 << 250 2.0.0 OK 1489085978 q67sm4798810qkl.48 - gsmtp<EOL>
+17/03/09 15:58:57 >> QUIT<EOL>
+17/03/09 15:58:58 << 221 2.0.0 closing connection q67sm4798810qkl.48 - gsmtp<EOL>
+17/03/09 15:58:58 ** Disconnecting from smtp.gmail.com:587
+17/03/09 15:58:58 ** Disconnected.
+17/03/09 15:58:58 ** Disconnected.
+17/03/09 15:58:58 ** --- MESSAGE BEGIN ---
+17/03/09 15:58:58 ** To: suportecriativitta1@gmail.com
+17/03/09 15:58:58 ** Subject: Testing sendmail.exe
+17/03/09 15:58:58 ** X-PHP-Originating-Script: 0:index.php
+17/03/09 15:58:58 ** From: suportecriativitta1@gmail.com
+17/03/09 15:58:58 ** Reply-To: suportecriativitta1@gmail.com
+17/03/09 15:58:58 ** MIME-Version: 1.0
+17/03/09 15:58:58 ** Content-type: text/html; charset=iso-8859-1
+17/03/09 15:58:58 ** X-Mailer: PHP/5.6.30
+17/03/09 15:58:58 ** 
+17/03/09 15:58:58 ** Hi, you just received an email using sendmail!
+17/03/09 15:58:58 ** --- MESSAGE END ---
+17/03/09 15:58:59 ** Connecting to smtp.gmail.com:587
+17/03/09 15:58:59 ** Connected.
+17/03/09 15:58:59 << 220 smtp.gmail.com ESMTP c19sm4812638qtc.29 - gsmtp<EOL>
+17/03/09 15:58:59 >> EHLO localhost<EOL>
+17/03/09 15:58:59 << 250-smtp.gmail.com at your service, [200.175.79.204]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/03/09 15:58:59 ** Authenticating as suportecriativitta1@gmail.com
+17/03/09 15:58:59 >> STARTTLS<EOL>
+17/03/09 15:59:00 << 220 2.0.0 Ready to start TLS<EOL>
+17/03/09 15:59:00 >> EHLO localhost<EOL>
+17/03/09 15:59:00 << 250-smtp.gmail.com at your service, [200.175.79.204]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/03/09 15:59:00 >> AUTH LOGIN<EOL>
+17/03/09 15:59:00 << 334 VXNlcm5hbWU6<EOL>
+17/03/09 15:59:00 >> c3Vwb3J0ZWNyaWF0aXZpdHRhMUBnbWFpbC5jb20=<EOL>
+17/03/09 15:59:00 << 334 UGFzc3dvcmQ6<EOL>
+17/03/09 15:59:00 >> Q3JpYXRpdml0dDQ=<EOL>
+17/03/09 15:59:01 << 235 2.7.0 Accepted<EOL>
+17/03/09 15:59:01 >> MAIL FROM: <suportecriativitta1@gmail.com><EOL>
+17/03/09 15:59:01 << 250 2.1.0 OK c19sm4812638qtc.29 - gsmtp<EOL>
+17/03/09 15:59:01 >> RCPT TO: <suportecriativitta1@gmail.com><EOL>
+17/03/09 15:59:01 << 250 2.1.5 OK c19sm4812638qtc.29 - gsmtp<EOL>
+17/03/09 15:59:01 >> DATA<EOL>
+17/03/09 15:59:01 << 354  Go ahead c19sm4812638qtc.29 - gsmtp<EOL>
+17/03/09 15:59:01 >> Date: Thu, 9 Mar 2017 15:59:01 -0300<EOL>
+17/03/09 15:59:01 >> To: suportecriativitta1@gmail.com<EOL>
+17/03/09 15:59:01 >> Subject: Testing sendmail.exe<EOL>
+17/03/09 15:59:01 >> X-PHP-Originating-Script: 0:index.php<EOL>
+17/03/09 15:59:01 >> From: suportecriativitta1@gmail.com<EOL>
+17/03/09 15:59:01 >> Reply-To: suportecriativitta1@gmail.com<EOL>
+17/03/09 15:59:01 >> MIME-Version: 1.0<EOL>
+17/03/09 15:59:01 >> Content-type: text/html; charset=iso-8859-1<EOL>
+17/03/09 15:59:01 >> X-Mailer: PHP/5.6.30<EOL>
+17/03/09 15:59:01 >> <EOL>
+17/03/09 15:59:01 >> Hi, you just received an email using sendmail!<EOL>
+17/03/09 15:59:01 >> .<EOL>
+17/03/09 15:59:02 << 250 2.0.0 OK 1489085983 c19sm4812638qtc.29 - gsmtp<EOL>
+17/03/09 15:59:02 >> QUIT<EOL>
+17/03/09 15:59:02 << 221 2.0.0 closing connection c19sm4812638qtc.29 - gsmtp<EOL>
+17/03/09 15:59:02 ** Disconnecting from smtp.gmail.com:587
+17/03/09 15:59:02 ** Disconnected.
+17/03/09 15:59:02 ** Disconnected.
